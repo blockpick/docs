@@ -11,6 +11,49 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "BlockPick",
+        "groups": [
+          {
+            "group": "시작하기",
+            "pages": [
+              "blockpick/introduction"
+            ]
+          },
+          {
+            "group": "서비스 가이드",
+            "pages": [
+              "blockpick/service/overview",
+              "blockpick/service/how-to-play",
+              "blockpick/service/commit-reveal"
+            ]
+          },
+          {
+            "group": "상품 가이드",
+            "pages": [
+              "blockpick/products/accommodation",
+              "blockpick/products/tickets",
+              "blockpick/products/flights"
+            ]
+          },
+          {
+            "group": "결제 & 환불",
+            "pages": [
+              "blockpick/policies/payment-system",
+              "blockpick/policies/booking-policies",
+              "blockpick/policies/refund-policies"
+            ]
+          },
+          {
+            "group": "안전 & 신뢰",
+            "pages": [
+              "blockpick/security/security",
+              "blockpick/security/fairness",
+              "blockpick/security/support"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
